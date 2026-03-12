@@ -16,7 +16,7 @@ In today's digital economy, the traditional credit scoring system is fundamental
 ## 🔥 Core Features
 
 ### 1. 💡 Alternative Data Scoring
-Traditional models penalize "thin-file" applicants. FusionX rewards responsible financial behavior by tracking everyday, non-bank data—like **consistent utility and rent payments**.
+Traditional models penalize "thin-file" applicants. FusionX rewards responsible financial behavior by tracking everyday, non-bank data like **consistent utility and rent payments**.
 
 ### 2. 🤖 Explainable AI (XAI)
 No more "Black Box" rejections. Our algorithm provides complete transparency, generating color-coded **Reason Cards** that explain exactly *why* a score changed and offers actionable advice on how the user can improve their financial health.
