@@ -26,7 +26,7 @@ To ensure bank-grade security and transparency, every credit application is proc
 
 ### 4. 🏦 Hidden Enterprise Admin Portal
 A sleek, air-gapped Bank Admin Dashboard featuring real-time KPI tracking (Total Applications, Average Score, High-Risk Alerts) and a seamless Approve/Reject workflow for loan officers. 
-*(Hint: Double-click the main title on the landing page to uncover the secret admin login!)*
+*(Hint: Double-click the logo "the  future credit system" on the landing page to uncover the secret admin login!)*
 
 ---
 
